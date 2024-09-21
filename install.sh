@@ -12,7 +12,7 @@ fi
 
 # Pobieranie skryptu Pythona z GitHub
 echo "Pobieranie skryptu Pythona..."
-wget -O $SCRIPT_PATH https://raw.githubusercontent.com/USERNAME/crypto-mining-logger/main/calculate_average.py
+wget -O $SCRIPT_PATH https://raw.githubusercontent.com/pumbayo1/crypto-mining-logger/main/calculate_average.py
 
 # Nadawanie uprawnień do uruchamiania
 echo "Nadawanie uprawnień skryptowi..."
